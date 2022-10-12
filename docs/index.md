@@ -8,8 +8,8 @@ This is my personl website.
 3. Shooting
 
 ## Qualifications
--B.Tech 
--M.tech
--Ph,D
+- B.Tech 
+- M.tech
+- Ph,D
 
 I study at .[GNDEC].(https://gndec.ac.in)
