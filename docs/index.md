@@ -9,7 +9,5 @@ This is my personl website.
 
 ## Qualifications
 - B.Tech 
-- M.tech
-- Ph,D
 
 I study at .[GNDEC].(https://gndec.ac.in)
